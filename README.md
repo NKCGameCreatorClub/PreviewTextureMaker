@@ -1,0 +1,2 @@
+# PreviewTextureMaker
+Materialに設定されたShaderを利用してTextureを生成できるEditor拡張
